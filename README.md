@@ -8,3 +8,4 @@
 * Link zur Kartenansicht eines Treffens einfügen (OpenStreetMap oder Google Maps). Evtl. mit [Leaflet](http://leaflet.cloudmade.com/) realisieren.
 * WordPress-Template auf GitHub hochladen.
 * Evtl. Youtube- oder Vimeo-Account erstellen für Videos aufgezeichneter Treffen.
+* Statistik über Teilnehmerzahl der einzelnen Treffen inklusive Durchschnitt einfügen. Evtl. mit [Highcharts](http://highcharts.com) oder mit reinem CSS realisieren.
